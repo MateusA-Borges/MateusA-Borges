@@ -2,7 +2,7 @@
 
 <h2 align="center">Welcome! I'm Mateus Alves</h2>
 
-I am a AI & Data Science student, pursing a technical degree in Artificial Intelligence at SENAC Goiás.
+I am a AI & Data Science student, pursing a technical degree in Artificial Intelligence at SENAC Goiás and a associate´s degree in System Analysis and Development at PUC GO.
 
 
 Seeking my first internship opportunity.
